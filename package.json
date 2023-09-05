@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxthq/ui": "^2.7.0",
+    "@types/node": "^18.17.3",
+    "@vueuse/motion": "^2.0.0",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxtjs/sanity": "^1.8.1",
+    "nuxt-swiper": "^1.2.2"
+  }
+}
