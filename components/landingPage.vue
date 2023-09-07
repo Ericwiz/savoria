@@ -66,7 +66,7 @@
         </div>
         <div v-else>
             <Menus>
-                <h2 class="text-center text-2xl pt-3 pb-8">Our Menus</h2>
+                <h2 class="text-center text-2xl pt-3 pb-8 text-black">Our Menus</h2>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                     <Card v-for="menu in menus" :key="menu.id" :image="menu.menu_image" :title="menu.menu_name"
                         :content="menu.menu_description" />
