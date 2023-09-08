@@ -76,12 +76,12 @@
                 </div>
                 <div class="flex py-6">
                     <button
-                        class="rounded-full px-10 py-4 uppercase border-2 border-black mx-auto hover:border-0 hover:text-white hover:bg-gradient-to-r hover:from-rose-400 hover:via-rose-500 hover:to-rose-600 transition-all duration-100">See
+                        class="rounded-full px-10 py-4 uppercase border-2 border-black mx-auto hover:border-0 hover:text-white hover:bg-gradient-to-r hover:from-rose-400 hover:via-rose-500 hover:to-rose-600 transition-all duration-100 text-black">See
                         More</button>
                 </div>
             </Menus>
         </section>
-        <section class="bg-slate-200 flex justify-between pb-8 h-screen">
+        <section class="bg-slate-200 flex justify-between pb-8">
             <div
                 class="w-full bg-[#100f1a] text-white flex flex-col items-center justify-center space-y-12 px-8 pb-8 bg-hero-image h-fit sm:h-screen bg-center bg-blend-overlay bg-cover">
                 <h3 class="text-lg pt-8 sm:pt-0 sm:text-2xl md:text-3xl text-center font-mono font-bold">Discover Delicious: Your Culinary Adventure Starts Here</h3>
