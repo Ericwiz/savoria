@@ -7,11 +7,12 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-image': "url('/public/headerImg02.jpg')",
+        'hero-image': "url('/public/feedImg.jpg')",
       },
       screens: {
-        'xs': '450px'
+        'xs': '450px',
          // => @media (min-width: 400px) { ... }
+         'm-md': {'max': '767px'},
       }
     },
   },

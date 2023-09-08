@@ -1,7 +1,7 @@
 <template>
     <div>
-        <nav class="bg-white px-8 py-5 sticky top-5 z-50">
-            <div class="flex justify-between">
+        <nav class="bg-white px-8 py-5 m-md:sticky m-md:top-5 m-md:z-50">
+            <div class="flex justify-between md:hidden">
                 <h1 class="text-2xl font-sans text-black">Savor <span class="text-pink-600 -ml-1">ia</span></h1>
 
                 <button @click="open = !open">
@@ -13,7 +13,7 @@
 
                 </button>
 
-                <USlideover v-model="open" side="left">
+                <USlideover v-model="open" side="left" class="">
                     <div class="flex flex-col px-5 py-5">
                         <button @click="open = !open" class="self-end">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"

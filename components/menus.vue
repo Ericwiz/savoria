@@ -1,7 +1,7 @@
 <template>
-    <section class="bg-slate-200 px-8 pt-10">
+    <div class="bg-slate-200 px-8 py-10">
         <slot />
-    </section>
+    </div>
 </template>
 
 <script setup>
