@@ -6,7 +6,7 @@
         disableOnInteraction: true,
     }">
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class=""> -->
             <img src="/testimonial1.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">With Savoria, dinner is always a treat. Quick, reliable, and the food arrives piping hot.
@@ -16,7 +16,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial2.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">I can't thank Savoria enough for making my office lunches hassle-free. The diverse menu
@@ -26,7 +26,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial3.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">Delightful surprises at my doorstep! Savoria has introduced me to new flavors and
@@ -36,7 +36,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial4.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">Exceptional customer service! When I had a special request for my order, Savoria went
@@ -46,7 +46,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial5.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">A lifesaver during my hectic work schedule. Savoria consistently delivers delicious
@@ -56,7 +56,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial6.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">When I want restaurant-quality food without leaving home, I turn to Savoria. Their
@@ -66,7 +66,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
             <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
             <img src="/testimonial7.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
             <p class="text-center">Variety at my fingertips! Savoria offers a range of cuisines to satisfy any craving. It's
@@ -76,7 +76,7 @@
             <!-- </div> -->
         </SwiperSlide>
         <SwiperSlide
-            class="px-5 shadow-lg bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
+            class="px-5 shadow-lg text-black bg-white py-5 rounded-md flex flex-col justify-center items-center space-y-4 font-mono min-h-fit">
         <!-- <div class="flex flex-col justify-center items-center space-y-4 font-mono min-h-fit"> -->
         <img src="/testimonial8.jpg" alt="Testimonial Image" class="w-16 h-16 rounded-full mx-auto">
         <p class="text-center">Reliable and efficient Savoria has become my go-to for stress-free dinners. I've
