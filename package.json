@@ -13,7 +13,9 @@
     "@nuxthq/ui": "^2.7.0",
     "@nuxtjs/supabase": "^1.1.0",
     "@types/node": "^18.17.3",
+    "@vueuse/core": "^10.4.1",
     "@vueuse/motion": "^2.0.0",
+    "@vueuse/nuxt": "^10.4.1",
     "nuxt": "^3.6.5"
   },
   "dependencies": {

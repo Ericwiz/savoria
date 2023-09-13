@@ -95,6 +95,10 @@
                 </button>
             </div>
         </section>
+
+        <section class="bg-slate-200 py-10 w-full px-10">
+            <Testimonial/>
+        </section>
     </main>
 </template>
 
