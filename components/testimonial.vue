@@ -1,6 +1,6 @@
 <template>
-    <h2 class="text-center pb-3 text-5xl font-bold">Testimonials</h2>
-    <h3 class="text-center pb-16 text-2xl font-mono font-light">What our customers are saying about us</h3>
+    <h2 class="text-center pb-3 text-5xl font-bold text-black">Testimonials</h2>
+    <h3 class="text-center pb-16 text-2xl font-mono font-light text-black">What our customers are saying about us</h3>
     <Swiper :modules="[SwiperAutoplay]" :slides-per-view="slides" :space-between="20" :loop="true" :autoplay="{
         delay: 5000,
         disableOnInteraction: true,
@@ -82,7 +82,7 @@
         <p class="text-center">Reliable and efficient Savoria has become my go-to for stress-free dinners. I've
             recommended it to all my friends.
         </p>
-        <h4 class="text-center font-bold">Lisa Johnson</h4>
+        <h4 class="text-center font-bold">Leonel Johnson</h4>
         <!-- </div> -->
     </SwiperSlide>
 </Swiper>
