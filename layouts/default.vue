@@ -6,11 +6,11 @@
                 <h1 class="text-2xl font-sans text-black cursor-pointer font-bold" @click="$router.push('/')">Savor <span class="text-pink-600 -ml-1">ia</span></h1>
 
                 <div class="text-black flex justify-between space-x-2 text-lg font-mono font-semibold">
-                    <NuxtLink to="/" class="px-5 py-4" active-class="bg-gray-200 dark:bg-gray-700">Home</NuxtLink>
-                    <NuxtLink to="/menu" class="px-5 py-4" active-class="bg-gray-200 dark:bg-gray-700">Menu</NuxtLink>
-                    <NuxtLink to="/offers" class="px-5 py-4" active-class="bg-gray-200 dark:bg-gray-700">Offers</NuxtLink>
-                    <NuxtLink to="/about" class="px-5 py-4" active-class="bg-gray-200 dark:bg-gray-700">About</NuxtLink>
-                    <NuxtLink to="/contact" class="px-5 py-4" active-class="bg-gray-200 dark:bg-gray-700">Contact Us</NuxtLink>
+                    <NuxtLink to="/" class="px-5 py-4" active-class="bg-gray-200">Home</NuxtLink>
+                    <NuxtLink to="/menu" class="px-5 py-4" active-class="bg-gray-200">Menu</NuxtLink>
+                    <NuxtLink to="/offers" class="px-5 py-4" active-class="bg-gray-200">Offers</NuxtLink>
+                    <NuxtLink to="/about" class="px-5 py-4" active-class="bg-gray-200">About</NuxtLink>
+                    <NuxtLink to="/contact" class="px-5 py-4" active-class="bg-gray-200">Contact Us</NuxtLink>
                 </div>
 
                 <div>
