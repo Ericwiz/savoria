@@ -76,7 +76,7 @@
                 </div>
                 <div class="flex py-6">
                     <button
-                        class="rounded-full px-10 py-4 uppercase border-2 border-black mx-auto hover:border-0 hover:text-white hover:bg-gradient-to-r hover:from-rose-400 hover:via-rose-500 hover:to-rose-600 transition-all duration-100 text-black">See
+                        class="rounded-full px-10 py-4 uppercase mx-auto hover:text-white hover:bg-gradient-to-r hover:from-rose-400 hover:via-rose-500 hover:to-rose-600 text-black">See
                         More</button>
                 </div>
             </Menus>
